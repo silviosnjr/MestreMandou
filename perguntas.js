@@ -3,7 +3,7 @@ criaCartao(
     'Mestre mandou...', 
     'Enviar uma emoção de tristeza.',
     'sad.png',
-    'fake' /*Se fake envie fake*/ 
+    'fake' /*Se falso envie fake*/ 
 )
 
 criaCartao(
@@ -41,7 +41,7 @@ criaCartao(
 criaCartao(
     '06', 
     'Mestre mandou...', 
-    'Ligar o microne e falar um palavrão qualquer.',
+    'Ligar o microfone e falar um palavrão qualquer.',
     'swearing.png',
     'fake'
 )
